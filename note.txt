@@ -1,3 +1,3 @@
 hello world!!
-this project cover key concept about Jenkins
 the project studies CI/CD stages
+
